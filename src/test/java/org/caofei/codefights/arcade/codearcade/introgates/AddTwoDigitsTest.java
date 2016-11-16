@@ -1,8 +1,8 @@
-package org.caofei.codefights.arcade;
+package org.caofei.codefights.arcade.codearcade.introgates;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class AddTwoDigitsTest {
     @Test

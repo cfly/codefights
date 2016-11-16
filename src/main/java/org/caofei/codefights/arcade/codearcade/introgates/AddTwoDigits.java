@@ -1,4 +1,4 @@
-package org.caofei.codefights.arcade;
+package org.caofei.codefights.arcade.codearcade.introgates;
 
 public class AddTwoDigits {
     int addTwoDigits(int n) {
