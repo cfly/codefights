@@ -1,0 +1,7 @@
+package org.caofei.codefights.arcade.codearcade.atthecrossroads;
+
+public class ReachNextLevel {
+    boolean reachNextLevel(int experience, int threshold, int reward) {
+        return experience + reward >= threshold;
+    }
+}
